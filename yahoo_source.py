@@ -1,15 +1,3 @@
-'''
-PROMPT: Act as Python Developer and create a script using Yahoo dataframe and library to read the tickets operation and it's information. Use the following stocks of the companies bellow:
-
-Microsoft
-IBM
-Apple
-
-INSTALLATION
-pip install yahooquery
-
-'''
-
 
 import pandas as pd
 from yahooquery import Ticker
