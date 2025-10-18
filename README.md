@@ -70,4 +70,10 @@ These CSVs can be easily imported into **Tableau** for visualization and deeper 
 1. Run the main menu:
    ```bash
    python main.py
+   Choose CRUD options or reporting tools.
+
+2. Export reports as .csv.
+
+3. Import the CSVs into Tableau for interactive dashboards.
+
 <img width="721" height="814" alt="image" src="https://github.com/user-attachments/assets/9768564a-9fb5-4ba4-8542-e8b4d2758407" />
